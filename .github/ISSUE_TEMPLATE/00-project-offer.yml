@@ -2,18 +2,8 @@ name: Senior Project Offer
 description: Create a senior project offer
 title: "[OFFER]: "
 labels: ["capstone"]
-assignees: ["doganulus"]
-body: 
-  - type: dropdown
-    id: project-tags
-    attributes:
-      label: Tags
-      description: Select project tags here
-      multiple: true
-      options:
-        - cmpe492
-        - cmpe491
-      default: 0
+assignees: ["doganulus"] # Assign the current coordinator here
+body:
   - type: textarea
     id: project-description
     attributes:
