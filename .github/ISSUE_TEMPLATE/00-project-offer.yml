@@ -1,7 +1,7 @@
 name: Senior Project Offer
 description: Create a senior project offer
-title: "[OFFER]: "
-labels: ["capstone"]
+title: "Project: "
+labels: ["project", "offer"]
 assignees: ["doganulus"] # Assign the current coordinator here
 body:
   - type: textarea
