@@ -4,7 +4,7 @@ This repository manages high-level activities related to senior year design proj
 
 ## For senior-year students
 
-We will administer your project as a pull request (PR) throught the semester. 
+We will administer your project as a pull request (PR) through the semester. 
 
 See the relevant project board for this semester [here](https://github.com/orgs/bouncmpe/projects/16).
 
