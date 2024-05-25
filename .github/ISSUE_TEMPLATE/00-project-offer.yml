@@ -1,7 +1,6 @@
 name: New Project Offer
 description: Create a new senior project offer
 title: "Project: "
-labels: ["project", "offer"]
 assignees: ["doganulus"] # Assign the current coordinator here
 projects:
   - bouncmpe/16 # Fall 2024
