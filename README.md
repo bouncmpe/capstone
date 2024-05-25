@@ -1,6 +1,6 @@
 # Computer Engineering Senior Year Projects
 
-Thıs repository manages realted activities 
+This repository manages high-level activities related to senior year design projects in the department of Computer Engineering. 
 
 ## For senior-year students
 
