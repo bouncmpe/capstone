@@ -10,4 +10,4 @@ See the relevant project board for this semester [here](https://github.com/orgs/
 
 ## For faculty members
 
-Please use our issue templates [here](https://github.com/bouncmpe/capstone/issues/new/choose) to add new project offers.
+Please use our issue template [here](https://github.com/bouncmpe/capstone/issues/new?template=00-project-offer.yml) to add a new project offer.

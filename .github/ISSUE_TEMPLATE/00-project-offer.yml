@@ -1,15 +1,18 @@
-name: New Project Offer
+name: New Senior Project Offer
 description: Create a new senior project offer
 title: "Project: "
-assignees: [] # Assign the current coordinator here
-type: "Senior Project Offer"
+assignees: ["doganulus"] # Assign the current coordinator here
 projects:
-  - bouncmpe/16 # Fall 2024
+  - bouncmpe/16 # Rolling project board
 body:
   - type: textarea
     id: project-description
     attributes:
       label: Project Description
-      placeholder: Describe the project in detail
+      description: Provide a clear, concise, and complete description of the project.
+      placeholder: |
+        What is the main goal of the project?
+        What kind of tasks will students perform?
+        What is the expected output/deliverable?
     validations:
       required: true
